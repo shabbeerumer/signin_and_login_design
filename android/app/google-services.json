@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095112181932",
+    "project_id": "signin-and-login-design",
+    "storage_bucket": "signin-and-login-design.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095112181932:android:ce8cbdf04e4636c0b7b709",
+        "android_client_info": {
+          "package_name": "com.example.signin_and_login_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095112181932-92v6lfgtl9pgn4lke6crqjn2fe4chf7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU1e_IVbyABOAoostNxCHhxv_DVnUWX8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095112181932-92v6lfgtl9pgn4lke6crqjn2fe4chf7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
